@@ -1,0 +1,2 @@
+# CoreCleaner
+Android cleaner app
